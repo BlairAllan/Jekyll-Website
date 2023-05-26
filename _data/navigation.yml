@@ -1,0 +1,7 @@
+main:
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Blog"
+    url: /blog/
+  - title: "CV"
+    url: /assets/files/Blair_Allan_CV.pdf
