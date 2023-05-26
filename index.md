@@ -13,11 +13,10 @@ Hello there! I'm Blair, a passionate data enthusiast who loves uncovering hidden
 
 Currently, I'm broadening my horizons in _Data Science_ with a Masters at Loughborough University. Here, I've had the opportunity to delve into various projects, each a fascinating blend of Machine Learning, Big Data, and software development. These experiences honed my strategic insights and knack for writing efficient code.
 
-Before joining Loughborough, I graduated from the University of Leeds, earning a First-Class Honours in _Neuroscience_ and being named on the dean's list. I look forward to continuing my journey, unearthing insights, learning new skills and publishing my work here.
+Before joining Loughborough, I graduated from the University of Leeds, earning a First-Class Honours in _Neuroscience_ and being named on the dean's list. I look forward to continuing my journey, unearthing insights, learning new skills and publishing my work here! 
 
 
 **Recent News**
-
 
 
 - 05'23: Attended the [IEUK23 Technology Internship](https://www.brightnetwork.co.uk/internship-experience-uk/ieuk-2023-technology)
