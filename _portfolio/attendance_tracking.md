@@ -4,6 +4,8 @@ header:
   teaser: 
 ---
 
+Repository found [here](https://github.com/BlairAllan/Student_Attendance_Project)
+
 # Student Attendance Project
 ## About
 The Student Attendance Project is a software information system capable of processing, storing, and analysing attendance data. The system includes a GUI interface for ease of interaction and utilizes Python and SQLite as its primary technologies.
