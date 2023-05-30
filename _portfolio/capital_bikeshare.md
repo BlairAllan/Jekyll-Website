@@ -2,6 +2,10 @@
 title: "Capital Bikeshare Data Analytics"
 header:
   teaser:
+output:
+  md_document:
+    variant: markdown_github
+    preserve_yaml: true
 ---
 
 An Exploratory Analysis report completed using R:
