@@ -133,7 +133,7 @@ during the summer.
 ### What was the impact of COVID-19?
 
 
-<img src="//assets/r-figs/capital_bikeshare/question_1_2-1.png" width="600" />
+<img src="/assets/r-figs/capital_bikeshare/question_1_2-1.png" width="600" />
 
 On the 23rd of March 2020, Washington D.C announced the initial Stay-At-Home 
 Order across the city. Weeks prior to this announcement the USA and the world 
