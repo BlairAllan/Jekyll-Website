@@ -9,6 +9,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+gem "webrick"
+gem "faraday-retry"
 
 # To upgrade, run `bundle update`.
 
@@ -24,4 +28,7 @@ source "https://rubygems.org"
 #
 # If you have any other plugins, put them here!
 # Cf. https://jekyllrb.com/docs/plugins/installation/
-
+group :jekyll_plugins do
+  gem "jekyll-sitemap"
+  gem "jemoji"
+end
