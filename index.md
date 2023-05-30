@@ -7,7 +7,7 @@ home: true
 ---
 
 
-# Data Science Post-Graduate.
+# Portfolio
 
 Hello there! I'm Blair, a passionate data enthusiast who loves uncovering hidden patterns and weaving compelling narratives from data. My journey into Data Science began in 2020 when I dived into R programming during my industrial placement year. The power of transforming data into stunning visualisations and even building an app captivated me, and I have been hooked ever since.
 
