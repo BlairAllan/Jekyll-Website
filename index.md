@@ -7,9 +7,9 @@ home: true
 ---
 
 
-# Portfolio
+# Hi.
 
-Hello there! I'm Blair, a passionate data enthusiast who loves uncovering hidden patterns and weaving compelling narratives from data. My journey into Data Science began in 2020 when I dived into R programming during my industrial placement year. The power of transforming data into stunning visualisations and even building an app captivated me, and I have been hooked ever since.
+I'm Blair, a passionate data enthusiast who loves uncovering hidden patterns and weaving compelling narratives from data. My journey into Data Science began in 2020 when I dived into R programming during my industrial placement year. The power of transforming data into stunning visualisations and even building an app captivated me, and I have been hooked ever since.
 
 Currently, I'm broadening my horizons in _Data Science_ with a Masters at Loughborough University. Here, I've had the opportunity to delve into various projects, each a fascinating blend of Machine Learning, Big Data, and software development. These experiences honed my strategic insights and knack for writing efficient code.
 
